@@ -1,4 +1,4 @@
-# Soluções Beecrowd em Python
+f# Soluções Beecrowd em Python
 
 ## Introdução
 
@@ -12,6 +12,7 @@ Este repositório contém as minhas soluções para diversos problemas do Beecro
 4. [Grafos](#grafos)
 5. [Matemática](#matemática)
 
----
+---rrr
+
 > ⚠️ **Aviso:** Algumas dessas soluções podem conter erros ou não estar estruturadas da forma mais eficiente. Elas foram desenvolvidas em um contexto de aprendizado, portanto, podem não seguir as melhores práticas ou otimizações de código.
 
